@@ -1,0 +1,6 @@
+/**
+ * Hides the content until Angular kicks in to eliminate the flash of uncompiled content
+ */
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
