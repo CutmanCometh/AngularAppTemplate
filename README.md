@@ -5,6 +5,8 @@ A basic template for a small/medium sized Angular.js project
 
 -All a simple module and main controller are setup. You just need to change the names to suit your project.
 
+-A directory structure is setup to allow your project to grow arbitrarily large.
+
 -ng-cloak is installed in CSS and ready to use.
 
 -This template uses SASS.
